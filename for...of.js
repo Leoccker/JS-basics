@@ -1,10 +1,10 @@
-const person = {
+const adress = {
     name: 'John',
     age: 30,
 };
 
-for (let key in person) {
-    console.log(key, person[key]);
+for (let key in adress) {
+    console.log(key, adress[key]);
 }
 
 const colors = ['red', 'green', 'blue'];
